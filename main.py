@@ -217,4 +217,4 @@ for i in range(5):
 
     cards.append(card_frame)
 
-root.mainloop()
+root.mainloop() 
